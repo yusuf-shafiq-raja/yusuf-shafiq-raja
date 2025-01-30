@@ -42,7 +42,7 @@
 <h3 align="left">📫 Connect with Me</h3>
 
 <div align="left">
-  <a href="[https://linkedin.com/in/YusufShafiqRaja](https://www.linkedin.com/in/yusuf-shafiq-raja-s-6a31b523a/)" target="_blank">
+  <a href="https://www.linkedin.com/in/yusuf-shafiq-raja-s-6a31b523a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
   <a href="https://github.com/YusufShafiqRaja" target="_blank">
