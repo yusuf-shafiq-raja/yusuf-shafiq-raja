@@ -113,7 +113,7 @@ const currentFocus = {
 <!-- Achievement badges -->
 <img src="https://img.shields.io/badge/Competitive%20Programming-Expert-gold?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 <img src="https://img.shields.io/badge/Data%20Analytics-Specialist-blue?style=for-the-badge&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Problem%20Solver-500%2B%20Solutions-green?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Problem%20Solver-30%2B%20Solutions-green?style=for-the-badge&logo=leetcode&logoColor=white"/>
 
 </div>
 
@@ -124,7 +124,6 @@ const currentFocus = {
 ```text
 Python       ████████████████████████▓   85.2%
 SQL          ████████████▓░░░░░░░░░░░░░   45.8%
-Django       ████████▓░░░░░░░░░░░░░░░░░   32.4%
 Data Science ██████▓░░░░░░░░░░░░░░░░░░░   28.6%
 C            ████▓░░░░░░░░░░░░░░░░░░░░░   18.3%
 ```
