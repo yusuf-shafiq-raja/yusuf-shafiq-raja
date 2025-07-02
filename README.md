@@ -5,8 +5,6 @@
   <!-- Animated typing effect -->
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+%F0%9F%91%8B+I'm+Yusuf+Shafiq+Raja;Competitive+Programmer+%7C+Data+Wizard;Building+the+Future+with+Code" alt="Typing SVG" />
   
-  <!-- Animated GIF -->
-  <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="300" alt="Coding GIF" />
   
 </div>
 
