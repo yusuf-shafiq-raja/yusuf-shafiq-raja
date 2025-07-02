@@ -19,7 +19,7 @@ class YusufShafiqRaja:
     def __init__(self):
         self.name = "Yusuf Shafiq Raja"
         self.role = "B.Tech IT Student & Problem Solver"
-        self.language_spoken = ["Python", "C", "SQL", "English", "Urdu"]
+        self.language_spoken = ["Python", "C", "SQL", "English"]
         self.current_focus = ["Competitive Programming", "Data Analytics", "Project Management"]
         self.fun_fact = "I turn coffee into code and data into insights ☕→💻"
     
